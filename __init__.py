@@ -1,1 +1,1 @@
-from superdict import SuperDict
+from .superdict import SuperDict
